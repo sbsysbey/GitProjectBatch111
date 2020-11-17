@@ -8,6 +8,10 @@ public class BirinciGun {
 		System.out.println("10:11 - ikinci gün");
 		System.out.println("10:11 - ikinci gun");
 		System.out.println("11:05 - local ");
+		System.out.println("11:05 -github ");
+		
+		
+		
 	}
 }
 
