@@ -10,7 +10,7 @@ public class BirinciGun {
 		System.out.println("11:05 - local ");
 		System.out.println("11:05 -github ");
 		System.out.println("ben burada conflict beklemiyorum");
-		
+		System.out.println("10:26 feature branca bir satýr ekledim");
 		
 	}
 }
