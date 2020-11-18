@@ -13,6 +13,7 @@ public class BirinciGun {
 		System.out.println("10:26 feature branca bir satır ekledim");
 		System.out.println("bu yeni satır yeni görev icin");
 		System.out.println("bunu master da iken ekliyorum");
+		System.out.println("11:20 feature branc github denemesi icin");
 		
 	}
 }
